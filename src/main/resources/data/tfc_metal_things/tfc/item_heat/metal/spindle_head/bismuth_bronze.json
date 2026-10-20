@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metal_things:metal/spindle_head/bismuth_bronze"
+  },
+  "heat_capacity": 2.857143,
+  "forging_temperature": 591.0,
+  "welding_temperature": 788.0
+}

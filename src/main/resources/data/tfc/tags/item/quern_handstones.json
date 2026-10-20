@@ -1,0 +1,13 @@
+{
+  "values": [
+    "tfc_metal_things:metal/handstone/copper",
+    "tfc_metal_things:metal/handstone/bronze",
+    "tfc_metal_things:metal/handstone/bismuth_bronze",
+    "tfc_metal_things:metal/handstone/black_bronze",
+    "tfc_metal_things:metal/handstone/wrought_iron",
+    "tfc_metal_things:metal/handstone/steel",
+    "tfc_metal_things:metal/handstone/black_steel",
+    "tfc_metal_things:metal/handstone/blue_steel",
+    "tfc_metal_things:metal/handstone/red_steel"
+  ]
+}

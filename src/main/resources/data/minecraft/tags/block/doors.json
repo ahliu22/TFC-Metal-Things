@@ -1,0 +1,13 @@
+{
+  "values": [
+    "tfc_metal_things:metal/door/copper",
+    "tfc_metal_things:metal/door/bronze",
+    "tfc_metal_things:metal/door/bismuth_bronze",
+    "tfc_metal_things:metal/door/black_bronze",
+    "tfc_metal_things:metal/door/wrought_iron",
+    "tfc_metal_things:metal/door/steel",
+    "tfc_metal_things:metal/door/black_steel",
+    "tfc_metal_things:metal/door/blue_steel",
+    "tfc_metal_things:metal/door/red_steel"
+  ]
+}

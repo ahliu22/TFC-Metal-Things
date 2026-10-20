@@ -1,0 +1,9 @@
+{
+  "ingredient": [
+    "tfc_metal_things:metal/vertical_support/steel",
+    "tfc_metal_things:metal/horizontal_support/steel"
+  ],
+  "support_up": 3,
+  "support_down": 3,
+  "support_horizontal": 8
+}

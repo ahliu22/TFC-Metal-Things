@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metal_things:metal/handstone/copper"
+  },
+  "heat_capacity": 17.142858,
+  "forging_temperature": 648.0,
+  "welding_temperature": 864.0
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "tfc_metal_things:item/metal/handstone/blue_steel_healthy",
+  "textures": {
+    "side": "tfc_metal_things:block/devices/quern/blue_steel/handstone_side_damaged",
+    "particle": "tfc_metal_things:block/devices/quern/blue_steel/handstone_top_damaged",
+    "handstone": "tfc_metal_things:block/devices/quern/blue_steel/handstone_top_damaged"
+  }
+}

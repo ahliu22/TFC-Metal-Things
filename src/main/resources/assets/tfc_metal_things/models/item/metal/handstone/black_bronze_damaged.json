@@ -1,0 +1,8 @@
+{
+  "parent": "tfc_metal_things:item/metal/handstone/black_bronze_healthy",
+  "textures": {
+    "side": "tfc_metal_things:block/devices/quern/black_bronze/handstone_side_damaged",
+    "particle": "tfc_metal_things:block/devices/quern/black_bronze/handstone_top_damaged",
+    "handstone": "tfc_metal_things:block/devices/quern/black_bronze/handstone_top_damaged"
+  }
+}

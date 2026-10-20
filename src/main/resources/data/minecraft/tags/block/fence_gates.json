@@ -1,0 +1,13 @@
+{
+  "values": [
+    "tfc_metal_things:metal/fence_gate/copper",
+    "tfc_metal_things:metal/fence_gate/bronze",
+    "tfc_metal_things:metal/fence_gate/bismuth_bronze",
+    "tfc_metal_things:metal/fence_gate/black_bronze",
+    "tfc_metal_things:metal/fence_gate/wrought_iron",
+    "tfc_metal_things:metal/fence_gate/steel",
+    "tfc_metal_things:metal/fence_gate/black_steel",
+    "tfc_metal_things:metal/fence_gate/blue_steel",
+    "tfc_metal_things:metal/fence_gate/red_steel"
+  ]
+}

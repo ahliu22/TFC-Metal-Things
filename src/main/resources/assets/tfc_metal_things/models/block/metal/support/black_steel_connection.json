@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/wood/support/connection",
+  "textures": {
+    "texture": "tfc:block/metal/block/black_steel",
+    "particle": "tfc:block/metal/block/black_steel"
+  }
+}

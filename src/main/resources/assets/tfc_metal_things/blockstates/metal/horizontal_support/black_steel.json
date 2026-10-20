@@ -1,0 +1,44 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "tfc_metal_things:block/metal/support/black_steel_horizontal"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "tfc_metal_things:block/metal/support/black_steel_connection",
+        "y": 270
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "tfc_metal_things:block/metal/support/black_steel_connection"
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "tfc_metal_things:block/metal/support/black_steel_connection",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "tfc_metal_things:block/metal/support/black_steel_connection",
+        "y": 180
+      }
+    }
+  ]
+}

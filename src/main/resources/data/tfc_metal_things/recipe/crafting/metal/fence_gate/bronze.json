@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "tag": "c:rods/bronze"
+    },
+    "S": {
+      "tag": "c:sheets/bronze"
+    }
+  },
+  "pattern": [
+    "RSR",
+    "RSR"
+  ],
+  "result": {
+    "count": 12,
+    "id": "tfc_metal_things:metal/fence_gate/bronze"
+  }
+}

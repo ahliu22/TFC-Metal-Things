@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "tfc_metal_things:block/metal/door/blue_steel_door_bottom",
+    "top": "tfc_metal_things:block/metal/door/blue_steel_door_top"
+  }
+}

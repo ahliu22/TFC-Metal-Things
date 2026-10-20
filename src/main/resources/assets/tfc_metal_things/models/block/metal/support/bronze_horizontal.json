@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/wood/support/horizontal",
+  "textures": {
+    "texture": "tfc:block/metal/block/bronze",
+    "particle": "tfc:block/metal/block/bronze"
+  }
+}

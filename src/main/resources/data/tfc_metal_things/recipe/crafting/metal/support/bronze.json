@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "tag": "c:rods/bronze"
+    }
+  },
+  "pattern": [
+    "RR"
+  ],
+  "result": {
+    "count": 32,
+    "id": "tfc_metal_things:metal/support/bronze"
+  }
+}

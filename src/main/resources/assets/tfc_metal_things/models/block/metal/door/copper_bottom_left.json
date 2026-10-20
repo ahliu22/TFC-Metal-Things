@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "tfc_metal_things:block/metal/door/copper_door_bottom",
+    "top": "tfc_metal_things:block/metal/door/copper_door_top"
+  }
+}

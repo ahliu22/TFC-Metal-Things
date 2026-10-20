@@ -1,0 +1,9 @@
+{
+  "ingredient": [
+    "tfc_metal_things:metal/vertical_support/bismuth_bronze",
+    "tfc_metal_things:metal/horizontal_support/bismuth_bronze"
+  ],
+  "support_up": 2,
+  "support_down": 2,
+  "support_horizontal": 6
+}

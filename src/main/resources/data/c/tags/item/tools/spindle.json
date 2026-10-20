@@ -1,0 +1,14 @@
+{
+  "values": [
+    "tfc:spindle",
+    "tfc_metal_things:metal/spindle/copper",
+    "tfc_metal_things:metal/spindle/bronze",
+    "tfc_metal_things:metal/spindle/bismuth_bronze",
+    "tfc_metal_things:metal/spindle/black_bronze",
+    "tfc_metal_things:metal/spindle/wrought_iron",
+    "tfc_metal_things:metal/spindle/steel",
+    "tfc_metal_things:metal/spindle/black_steel",
+    "tfc_metal_things:metal/spindle/blue_steel",
+    "tfc_metal_things:metal/spindle/red_steel"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metal_things:metal/door/bronze"
+  },
+  "heat_capacity": 5.714286,
+  "forging_temperature": 570.0,
+  "welding_temperature": 760.0
+}

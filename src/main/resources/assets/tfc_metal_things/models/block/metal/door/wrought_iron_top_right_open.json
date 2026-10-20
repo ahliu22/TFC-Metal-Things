@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "tfc_metal_things:block/metal/door/wrought_iron_door_bottom",
+    "top": "tfc_metal_things:block/metal/door/wrought_iron_door_top"
+  }
+}

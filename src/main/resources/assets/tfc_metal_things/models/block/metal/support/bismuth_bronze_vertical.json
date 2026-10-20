@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/wood/support/vertical",
+  "textures": {
+    "texture": "tfc:block/metal/block/bismuth_bronze",
+    "particle": "tfc:block/metal/block/bismuth_bronze"
+  }
+}

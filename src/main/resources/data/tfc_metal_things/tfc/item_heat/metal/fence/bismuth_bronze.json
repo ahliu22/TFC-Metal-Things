@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metal_things:metal/fence/bismuth_bronze"
+  },
+  "heat_capacity": 0.714286,
+  "forging_temperature": 591.0,
+  "welding_temperature": 788.0
+}

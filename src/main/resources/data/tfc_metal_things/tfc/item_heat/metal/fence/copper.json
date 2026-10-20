@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metal_things:metal/fence/copper"
+  },
+  "heat_capacity": 0.714286,
+  "forging_temperature": 648.0,
+  "welding_temperature": 864.0
+}

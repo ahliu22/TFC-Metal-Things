@@ -1,0 +1,13 @@
+{
+  "values": [
+    "tfc_metal_things:metal/support/copper",
+    "tfc_metal_things:metal/support/bronze",
+    "tfc_metal_things:metal/support/bismuth_bronze",
+    "tfc_metal_things:metal/support/black_bronze",
+    "tfc_metal_things:metal/support/wrought_iron",
+    "tfc_metal_things:metal/support/steel",
+    "tfc_metal_things:metal/support/black_steel",
+    "tfc_metal_things:metal/support/blue_steel",
+    "tfc_metal_things:metal/support/red_steel"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "tfc:advanced_shapeless_crafting",
+  "ingredients": [
+    {
+      "tag": "c:tools/spindle"
+    },
+    {
+      "item": "tfc:wool"
+    }
+  ],
+  "primary_ingredient": {
+    "tag": "c:tools/spindle"
+  },
+  "remainder": {
+    "modifiers": [
+      {
+        "type": "tfc:damage_crafting_remainder"
+      }
+    ]
+  },
+  "result": {
+    "count": 8,
+    "id": "tfc:wool_yarn"
+  }
+}

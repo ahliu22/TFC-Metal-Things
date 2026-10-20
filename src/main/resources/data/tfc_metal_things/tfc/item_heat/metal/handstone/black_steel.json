@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metal_things:metal/handstone/black_steel"
+  },
+  "heat_capacity": 17.142858,
+  "forging_temperature": 891.0,
+  "welding_temperature": 1188.0
+}

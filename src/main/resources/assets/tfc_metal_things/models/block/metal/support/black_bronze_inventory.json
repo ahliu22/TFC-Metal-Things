@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/wood/support/inventory",
+  "textures": {
+    "texture": "tfc:block/metal/block/black_bronze",
+    "particle": "tfc:block/metal/block/black_bronze"
+  }
+}

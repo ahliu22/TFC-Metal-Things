@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "tfc_metal_things:metal/fence_gate/black_steel"
+  },
+  "heat_capacity": 1.428572,
+  "forging_temperature": 891.0,
+  "welding_temperature": 1188.0
+}

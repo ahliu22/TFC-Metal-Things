@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "tfc:block/metal/block/wrought_iron"
+  }
+}
